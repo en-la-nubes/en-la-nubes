@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @en-la-nubes
+- 👋 Hi, I’m Diego Dias, @en-la-nubes
 - :cloud_with_snow: In the clouds, serving scripts. Making the world a better place with sotware.
 - :desktop_computer: Javascript/React Super User, Python enthusiast.
 - 👀 I’m interested in Application Development, linux/GNU/UNIX, Open Source Projects, and Birds!
